@@ -24,11 +24,11 @@ This Python script allows amateur radio operators to record their contacts and s
 
 ## Configuration
 
-You can customize the amateur radio bands and their frequency ranges by editing the `config.ini` file.
+You can customise the amateur radio bands and their frequency ranges by editing the `config.ini` file.
 
 ## Dependencies
 
-- [colorama](https://pypi.org/project/colorama/): For colorizing the command-line output.
+- [colorama](https://pypi.org/project/colorama/): For colourising the command-line output.
 
 ## License
 
